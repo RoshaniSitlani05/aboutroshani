@@ -102,10 +102,17 @@ figure {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%; }
+  #colorlib-aside .position a {
+    color: red;
+        font-weight: bold;
+
+  }
+
   #colorlib-aside .position {
     display: block;
     margin-bottom: 2em;
     font-size: 12px;
+    color: red;
     text-transform: uppercase; }
   #colorlib-aside #colorlib-logo {
     text-align: right;
